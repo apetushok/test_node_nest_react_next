@@ -1,0 +1,16 @@
+.welcome{
+	min-height: 200px;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	padding: 70px 0;
+
+	.user-name-wrap{
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+		gap: 0.2rem;
+	}
+}
